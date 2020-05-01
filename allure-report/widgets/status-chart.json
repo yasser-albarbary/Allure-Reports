@@ -1,0 +1,21 @@
+[ {
+  "uid" : "cdc9d54c9e71c9e9",
+  "name" : "Browse acutesttraining PUBLICA‌-1 issue (should fail)",
+  "time" : {
+    "start" : 1588173427511,
+    "stop" : 1588173429155,
+    "duration" : 1644
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "46bf718cb6558b3b",
+  "name" : "Browse acutesttraining PUBLICA‌-1 issue",
+  "time" : {
+    "start" : 1588173424567,
+    "stop" : 1588173427510,
+    "duration" : 2943
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

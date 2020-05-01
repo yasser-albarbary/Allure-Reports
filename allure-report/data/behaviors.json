@@ -1,0 +1,35 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Webdriver PUBLICA browser tests",
+    "children" : [ {
+      "name" : "Browse acutesttraining PUBLICA‌-1 issue",
+      "uid" : "46bf718cb6558b3b",
+      "parentUid" : "bcaa081652bacc4039ffadc56ce5b29b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1588173424567,
+        "stop" : 1588173427510,
+        "duration" : 2943
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Browse acutesttraining PUBLICA‌-1 issue (should fail)",
+      "uid" : "cdc9d54c9e71c9e9",
+      "parentUid" : "bcaa081652bacc4039ffadc56ce5b29b",
+      "status" : "failed",
+      "time" : {
+        "start" : 1588173427511,
+        "stop" : 1588173429155,
+        "duration" : 1644
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "bcaa081652bacc4039ffadc56ce5b29b"
+  } ]
+}
